@@ -1,3 +1,5 @@
 first :
 android>app>src>main>AndroidManifest.xml =  <uses-permission android:name="android.permission.INTERNET"/>
 Build Command :   flutter build apk --build-name=1.0.3 --build-number=3
+or 
+flutter build apk --build-name=1.0 --build-number=1
