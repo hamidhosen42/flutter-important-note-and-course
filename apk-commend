@@ -3,3 +3,6 @@ android>app>src>main>AndroidManifest.xml =  <uses-permission android:name="andro
 Build Command :   flutter build apk --build-name=1.0.3 --build-number=3
 or 
 flutter build apk --build-name=1.0 --build-number=1
+
+
+SHA1 : keytool -list -v -keystore C:\Users\Acer\.android\debug.keystore -alias androiddebugkey -storepass android -keypass android
